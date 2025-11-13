@@ -1,0 +1,23 @@
+{
+ "entityType": "variable",
+ "data": {
+  "createdAt": "2025-11-13T11:51:50.164Z",
+  "updatedAt": "2025-11-13T11:51:50.164Z",
+  "isDeleted": false,
+  "commitId": "",
+  "status": "",
+  "lastVersion": "",
+  "isLive": null,
+  "commitInfo": {
+   "timeStamp": "0001-01-01T00:00:00Z"
+  },
+  "entityId": "8db5c72d-7b81-4fe5-838a-216efbf2da82",
+  "name": "age",
+  "category": "globalVar",
+  "scope": "workspace",
+  "dataType": "numeric",
+  "value": {
+   "data": 12
+  }
+ }
+}
